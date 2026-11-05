@@ -1,0 +1,15 @@
+{
+  "repository": "module-maintenance-maintenance-core-dart-mobile",
+  "capabilityKey": "liberusoftware/module-maintenance-maintenance-core",
+  "presentation": "dart-mobile",
+  "package": "module_maintenance_maintenance_core_dart_mobile",
+  "foundation": "module-boilerplate-dart-mobile",
+  "foundationCommit": "0656c212b36ef4f8ffd6fc74db4ac541268e7d31",
+  "canonicalPlan": "projects/maintenance/nextjs/maintenance-core.md",
+  "presentationPlan": "projects/maintenance/features/maintenance-core.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "maintenance"
+  ]
+}
